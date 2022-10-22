@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Very good clicker</string>
+    <string name="button">Click me!</string>
+    <string name="textView">This is a clicker</string>
+    <string name="addition">clicks already</string>
+</resources>
